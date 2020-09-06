@@ -97,10 +97,15 @@
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
   <br />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />  
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
+
+  <i style="font-size: 10px;">learning</i>
+  <br />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
 </p>
 
 <!-- T / Backend -->
+<br />
 <h5>Backend</h5>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
@@ -121,6 +126,7 @@
 </p>
 
 <!-- T / Database -->
+<br />
 <h5>Database</h5>
 <p>
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
@@ -131,12 +137,14 @@
 </p>
 
 <!-- T / Version control -->
+<br />
 <h5>Version control</h5>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 <!-- T / IDE -->
+<br />
 <h5>IDE</h5>
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=Visual+Studio+Code&logoColor=white" />
@@ -144,6 +152,7 @@
 </p>
 
 <!-- T / Other -->
+<br />
 <h5>Other</h5>
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
