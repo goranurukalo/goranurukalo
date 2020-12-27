@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 </h1>
 <h3>Thank you for visiting!</h3>
-<h3>I'm a Fullstack developer from Belgrade who lives to develop and try new cool stuff. I'm currently working in @TeleTrader as a Lead Font-End Developer.</h3>
+<h3>I'm a Fullstack developer from Belgrade who lives to develop and try new cool stuff. I'm currently working in @TeleTrader as a Lead Front-End Developer.</h3>
 
 <br />
 <br />
