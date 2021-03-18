@@ -74,6 +74,7 @@
 <h5>Frontend</h5>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white" />
   <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white" />
@@ -82,14 +83,17 @@
   <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react+router&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+  <img alt="WebComponents" src="https://img.shields.io/badge/-WebComponents-29ABE2?style=flat&logo=webcomponents.org&logoColor=white" />
   <br />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" /> 
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=white" />
   <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=webpack&logoColor=white" /> 
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=Storybook&logoColor=white" /> 
+  <img alt="Progressive Web Apps" src="https://img.shields.io/badge/-Progressive%20Web%20Apps-5A06C9?style=flat&logo=Pandora&logoColor=white" /> 
   <br />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=Cypress&logoColor=white" />
+  <img alt="Testing Library" src="https://img.shields.io/badge/-Testing%20Library-E33332?style=flat&logo=Testing-Library&logoColor=white" />
   <br />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=NPM&logoColor=white" />
@@ -102,6 +106,7 @@
   <i style="font-size: 10px;">learning</i>
   <br />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
+  <img alt="Solid" src="https://img.shields.io/badge/-Solid-275EA2?style=flat&logo=spark-ar&logoColor=white" />
 </p>
 
 <!-- T / Backend -->
@@ -157,6 +162,7 @@
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=CentOS&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=Nginx&logoColor=white" />
   <br />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white" />
@@ -166,6 +172,16 @@
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white" />
   <br />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  <br />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white" />
+  <br />
+  <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat&logo=JSON-Web-Tokens&logoColor=white" />
+  
+  <i style="font-size: 10px;">learning</i>
+  <br />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
 </p>
 
 <br />
