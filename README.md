@@ -2,7 +2,7 @@
 <h1>
   Hi there, I'm 
   <a href="http://goranurukalo.github.io/" target="_blank">Goran</a> 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
 </h1>
 <h3>Thank you for visiting!</h3>
 <h3>I'm a Fullstack developer from Belgrade who lives to develop and try new cool stuff. I'm currently working in @TeleTrader as a Lead Front-End Developer.</h3>
